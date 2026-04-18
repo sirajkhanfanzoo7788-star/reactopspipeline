@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 
-const message = "Hi Siraj Janu 💖 How are you?";
+const message = "Hi Siraj Janu 💖 How are you?And KYA HAL Hai";
 
 function App() {
   const [text, setText] = useState("");
